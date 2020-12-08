@@ -12,7 +12,7 @@
 
 Splash | Login | Signin
 -------|-------|-------
-![](img/splash.png) | ![](img/login.png) | ![](img/signin.png)
+![](img/splash.jpg) | ![](img/login.jpg) | ![](img/signin.jpg)
 
 
 
@@ -23,4 +23,4 @@ Aqui por ahora tenemos un boton que nos desplaza a la main2
 Aqui encontraremos una imagen con unos tips acerca de la postura a la hora de dormir
 Main1 | Main2
 -------|-------
-![](img/main1.png) | ![](img/main2.png)
+![](img/main.jpg) | ![](img/main2.jpg)
