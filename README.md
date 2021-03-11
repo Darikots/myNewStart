@@ -27,7 +27,7 @@ Main1 | Main2
 
 AlertDialog | Context | Busqueda | Expandible | MenuBar | Swipe
 -------|-------|-------|-------|-------|-------
-![](img/AlerDialog.png) | ![](img/Busqueda.png) | ![](img/Context.png) | ![](img/Expandible.png) | ![](img/MenubarClicked.png) | ![](img/Swipe.png)
+![](img/AlertDialog.png) | ![](img/Context.png) | ![](img/Busqueda.png) | ![](img/Expandible.png) | ![](img/MenuBarClicked.png) | ![](img/Swipe.png)
 
 Instrument
 ![](img/Instrument.png)
