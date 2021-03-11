@@ -26,7 +26,7 @@ Main1 | Main2
 ![](img/Main1.png) | ![](img/Main2.png)
 
 AlertDialog | Context | Busqueda | Expandible | MenuBar | Swipe
-------------|---------|----------|------------|---------|
+-------|-------|-------|-------|-------|-------
 ![](img/AlerDialog.png) | ![](img/Busqueda.png) | ![](img/Context.png) | ![](img/Expandible.png) | ![](img/MenubarClicked.png) | ![](img/Swipe.png)
 
 Instrument
