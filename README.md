@@ -23,4 +23,11 @@ Aqui por ahora tenemos un boton que nos desplaza a la main2
 Aqui encontraremos una imagen con unos tips acerca de la postura a la hora de dormir
 Main1 | Main2
 -------|-------
-![](img/main.jpg) | ![](img/main2.jpg)
+![](img/Main1.png) | ![](img/Main2.png)
+
+AlertDialog | Context | Busqueda | Expandible | MenuBar | Swipe
+------------|---------|----------|------------|---------|
+![](img/AlerDialog.png) | ![](img/Busqueda.png) | ![](img/Context.png) | ![](img/Expandible.png) | ![](img/MenubarClicked.png) | ![](img/Swipe.png)
+
+Instrument
+![](img/Instrument.png)
